@@ -1,0 +1,17 @@
+# Terraform-Statusdateien
+*.tfstate
+*.tfstate.*
+
+# Crash-Logs
+crash.log
+
+# Verzeichnis für Terraform-Plugins
+.terraform/
+
+# Überschüssige Dateien
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
